@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/krisna31/3d-with-react-three-fiber/static/css/main.157026b7.css",
-    "main.js": "/krisna31/3d-with-react-three-fiber/static/js/main.a50bdfaa.js",
+    "main.css": "/krisna31/3d-with-react-three-fiber/static/css/main.cfd809b1.css",
+    "main.js": "/krisna31/3d-with-react-three-fiber/static/js/main.f325c3f3.js",
+    "static/js/618.1ad0f0d6.chunk.js": "/krisna31/3d-with-react-three-fiber/static/js/618.1ad0f0d6.chunk.js",
     "static/js/787.8d87ef02.chunk.js": "/krisna31/3d-with-react-three-fiber/static/js/787.8d87ef02.chunk.js",
+    "static/js/900.768d5ab6.chunk.js": "/krisna31/3d-with-react-three-fiber/static/js/900.768d5ab6.chunk.js",
     "index.html": "/krisna31/3d-with-react-three-fiber/index.html",
-    "main.157026b7.css.map": "/krisna31/3d-with-react-three-fiber/static/css/main.157026b7.css.map",
-    "main.a50bdfaa.js.map": "/krisna31/3d-with-react-three-fiber/static/js/main.a50bdfaa.js.map",
-    "787.8d87ef02.chunk.js.map": "/krisna31/3d-with-react-three-fiber/static/js/787.8d87ef02.chunk.js.map"
+    "main.cfd809b1.css.map": "/krisna31/3d-with-react-three-fiber/static/css/main.cfd809b1.css.map",
+    "main.f325c3f3.js.map": "/krisna31/3d-with-react-three-fiber/static/js/main.f325c3f3.js.map",
+    "618.1ad0f0d6.chunk.js.map": "/krisna31/3d-with-react-three-fiber/static/js/618.1ad0f0d6.chunk.js.map",
+    "787.8d87ef02.chunk.js.map": "/krisna31/3d-with-react-three-fiber/static/js/787.8d87ef02.chunk.js.map",
+    "900.768d5ab6.chunk.js.map": "/krisna31/3d-with-react-three-fiber/static/js/900.768d5ab6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.157026b7.css",
-    "static/js/main.a50bdfaa.js"
+    "static/css/main.cfd809b1.css",
+    "static/js/main.f325c3f3.js"
   ]
 }
